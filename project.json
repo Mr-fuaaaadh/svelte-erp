@@ -1,0 +1,27 @@
+{
+  "overview": "AIPSA ERP is a premium enterprise SaaS platform for the All India Private School Association, combining Sales CRM, School ERP, HR & Payroll, Parent/Student Portals, Finance & Billing, and Analytics into a single unified national-level platform.",
+  "features": [
+    "Super Admin Dashboard with KPI tiles, state-wise analytics, revenue tracking",
+    "Sales CRM with lead pipeline, GST invoicing, commission tracking",
+    "School ERP with student records, attendance, exams, fees, class management",
+    "Teacher & HR Portal with payroll, leave management, performance reports",
+    "Parent & Student Portals with fee payment, report cards, homework",
+    "Finance & Billing with subscription plans, GST invoices, renewal tracking",
+    "Analytics Center with charts for school growth, sales trends, state comparisons",
+    "Premium UI with dark mode, collapsible sidebar, glassmorphism widgets, mobile responsive"
+  ],
+  "category": "enterprise-saas",
+  "tags": [
+    "erp",
+    "saas",
+    "education",
+    "school-management",
+    "crm",
+    "hr",
+    "finance",
+    "analytics",
+    "india",
+    "aipsa"
+  ],
+  "last_updated": "2026-04-22T05:56:41.504Z"
+}
