@@ -4,3 +4,4 @@ onlyBuiltDependencies:
   - '@biomejs/biome'
   - esbuild
   - sharp
+  - '@tailwindcss/oxide'
